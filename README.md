@@ -26,8 +26,6 @@ public class Main {
                     System.out.println("Bir sayı 0a bölünemez.");
                     break;
                 }
-
-
             case 4:
                 System.out.println(+n1 +" sayısı ile "+n2 +" sayısının çarpımı "+(n1*n2));
                 break;
